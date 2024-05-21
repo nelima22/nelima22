@@ -1,4 +1,4 @@
-# Hello world! 👋🌍
+# Hello world! 👋😀
 
 ## A Little About Me
 
