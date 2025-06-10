@@ -1,4 +1,4 @@
-# Hello world! 👋😝
+# Hello world! 👋😊
 
 
 I'm a Data Scientist learning to build and maintain ML and AI applications.
