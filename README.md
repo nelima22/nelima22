@@ -1,6 +1,6 @@
-# Hello World! 👋  
+### Hello World! 👋😊
 
-I’m passionate about using **machine learning** and **healthcare data** to solve real-world problems—whether it’s unlocking insights from genomic data, improving diagnoses with AI, or optimizing clinical workflows.    
+I’m passionate about using **machine learning** and **healthcare data** to solve real-world problems, be it unlocking insights from genomic data, improving diagnoses with AI, or optimizing clinical workflows.    
 
 My focus spans:  
 - **Precision Medicine**: Tailoring treatments using genomic, clinical, and lifestyle data.  
