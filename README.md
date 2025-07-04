@@ -1,9 +1,20 @@
-# Hello world! 👋😊
+# Hello world! 👋😊  
 
+I'm a **Data Scientist** passionate about building and maintaining ML/AI applications that drive meaningful change.  
 
-I'm a Data Scientist learning to build and maintain ML and AI applications.
+### **My Focus** 🎯  
+🔬 Transitioning into **Healthcare Analytics & Precision Medicine**  
+💡 Eager to work on projects that leverage data to improve patient outcomes, personalized treatments, and predictive diagnostics.  
 
-I'm super passionate about making a positive impact on the world 💫 and I hope to work on projects that solve problems in my community.
+### **Mission** 💫  
+I believe in using data for social good—especially in solving real-world problems in **healthcare and community well-being**.  
 
+### **Collaboration** 🤝  
+Always open to collaborating on impactful projects, whether in healthcare, ML, or AI!  
 
-However I'm always eager to collaborate on all kinds of projects. Here are some of the projects I have worked on.
+---
+
+**Skills**: Python | ML/DL/AI | Healthcare Data | SQL  
+**Tools**: PyHealth, TensorFlow/PyTorch, EHR/OMOP | SciKit-Learn  
+
+Let’s connect and build solutions that matter!  
