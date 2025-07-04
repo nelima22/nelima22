@@ -1,6 +1,8 @@
-# **Data Scientist | Healthcare Analytics | Precision Medicine**  
+# Hello World! 👋  
 
-Passionate about leveraging **AI/ML** and **clinical data** to drive innovations in healthcare. My focus spans:  
+I’m passionate about using **machine learning** and **healthcare data** to solve real-world problems—whether it’s unlocking insights from genomic data, improving diagnoses with AI, or optimizing clinical workflows.    
+
+My focus spans:  
 - **Precision Medicine**: Tailoring treatments using genomic, clinical, and lifestyle data.  
 - **Healthcare Analytics**: Transforming raw data (EHRs, claims, labs) into actionable insights.  
 - **Bioinformatics**: Bridging biology and data science for biomarker discovery and omics analysis.  
