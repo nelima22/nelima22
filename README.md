@@ -38,6 +38,3 @@ Open to projects in:
 - **Precision Oncology**, **Common and Rare Disease Genomics**, or **Population Health**.  
 - Building interoperable tools for clinical/omics data.
   
-- **I care about**:  
-🔒 Keeping patient data safe (HIPAA/GDPR-trained)  
-⚡ Building ML models that work *within* real-world regulations.   
