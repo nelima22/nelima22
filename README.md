@@ -1,20 +1,43 @@
-# Hello world! 👋😊  
+# **Data Scientist | Healthcare Analytics | Precision Medicine**  
 
-I'm a **Data Scientist** passionate about building and maintaining ML/AI applications that drive meaningful change.  
-
-### **My Focus** 🎯  
-🔬 Transitioning into **Healthcare Analytics & Precision Medicine**  
-💡 Eager to work on projects that leverage data to improve patient outcomes, personalized treatments, and predictive diagnostics.  
-
-### **Mission** 💫  
-I believe in using data for social good—especially in solving real-world problems in **healthcare and community well-being**.  
-
-### **Collaboration** 🤝  
-Always open to collaborating on impactful projects, whether in healthcare, ML, or AI!  
+Passionate about leveraging **AI/ML** and **clinical data** to drive innovations in healthcare. My focus spans:  
+- **Precision Medicine**: Tailoring treatments using genomic, clinical, and lifestyle data.  
+- **Healthcare Analytics**: Transforming raw data (EHRs, claims, labs) into actionable insights.  
+- **Bioinformatics**: Bridging biology and data science for biomarker discovery and omics analysis.  
 
 ---
 
-**Skills**: Python | ML/DL/AI | Healthcare Data | SQL  
-**Tools**: PyHealth, TensorFlow/PyTorch, EHR/OMOP | SciKit-Learn  
+### 🛠️ **Skills & Expertise**  
+**Clinical Data & Standards**  
+- **Medical Coding**: ICD-11 (diagnoses), CPT/HCPCS (procedures), LOINC (labs).  
+- **EHR/EMR**: OMOP CDM, FHIR, HL7, clinical NLP.
+- **I care about**:  
+   🔒 Keeping patient data safe (HIPAA/GDPR-trained)  
+   ⚡ Building ML models that work *within* real-world regulations.
 
-Let’s connect and build solutions that matter!  
+**Bioinformatics**  
+- Genomic data analysis (WES, RNA-seq), pathway/gene enrichment.  
+- Tools: Bioconductor, GATK, PLINK, ANNOVAR.  
+
+**ML/AI**  
+- Predictive modeling, survival analysis, NLP for clinical notes.  
+- Python (PyTorch, TensorFlow), R, SQL, Databricks.  
+
+---
+
+### 🌟 **Mission**  
+To solve real-world healthcare challenges by:  
+- Improving **diagnostic accuracy** via AI-powered tools.  
+- Enabling **personalized therapies** through multi-omics integration.  
+- Optimizing **health systems** with data-driven workflows.  
+
+---
+
+### 🤝 **Let’s Collaborate!**  
+Open to projects in:  
+- **Precision Oncology**, **Common and Rare Disease Genomics**, or **Population Health**.  
+- Building interoperable tools for clinical/omics data.
+  
+- **I care about**:  
+🔒 Keeping patient data safe (HIPAA/GDPR-trained)  
+⚡ Building ML models that work *within* real-world regulations.   
