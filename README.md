@@ -5,7 +5,9 @@ I’m passionate about using **machine learning** and **healthcare data** to sol
 My focus spans:  
 - **Precision Medicine**: Tailoring treatments using genomic, clinical, and lifestyle data.  
 - **Healthcare Analytics**: Transforming raw data (EHRs, claims, labs) into actionable insights.  
-- **Bioinformatics**: Bridging biology and data science for biomarker discovery and omics analysis.  
+- **Bioinformatics**: Bridging biology and data science for biomarker discovery and omics analysis.
+- General Data Science and Analytics
+   
 
 ---
 
@@ -27,16 +29,9 @@ My focus spans:
 
 ---
 
-### 🌟 **Mission**  
-To solve real-world healthcare challenges by:  
-- Improving **diagnostic accuracy** via AI-powered tools.  
-- Enabling **personalized therapies** through multi-omics integration.  
-- Optimizing **health systems** with data-driven workflows.  
-
----
-
 ### 🤝 **Let’s Collaborate!**  
 Open to projects in:  
 - **Precision Oncology**, **Common and Rare Disease Genomics**, or **Population Health**.  
 - Building interoperable tools for clinical/omics data.
+- Any other projects Data science and Analytics that are impactful.
   
