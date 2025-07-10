@@ -1,37 +1,47 @@
 ### Hello World! 👋😊
 
-I’m passionate about using **machine learning** and **healthcare data** to solve real-world problems, be it unlocking insights from genomic data, improving diagnoses with AI, or optimizing clinical workflows.    
+I turn raw data into actionable insights—whether it's optimizing business workflows, improving healthcare outcomes, predicting crop yields, or uncovering hidden patterns in customer behavior.  
 
-My focus spans:  
-- **Precision Medicine**: Tailoring treatments using genomic, clinical, and lifestyle data.  
-- **Healthcare Analytics**: Transforming raw data (EHRs, claims, labs) into actionable insights.  
-- **Bioinformatics**: Bridging biology and data science for biomarker discovery and omics analysis.
-- General Data Science and Analytics
-   
-
----
-
-### 🛠️ **Skills & Expertise**  
-**Clinical Data & Standards**  
-- **Medical Coding**: ICD-11 (diagnoses), CPT/HCPCS (procedures), LOINC (labs).  
-- **EHR/EMR**: OMOP CDM, FHIR, HL7, clinical NLP.
-- **I care about**:  
-   🔒 Keeping patient data safe (HIPAA/GDPR-trained)  
-   ⚡ Building ML models that work *within* real-world regulations.
-
-**Bioinformatics**  
-- Genomic data analysis (WES, RNA-seq), pathway/gene enrichment.  
-- Tools: Bioconductor, GATK, PLINK, ANNOVAR.  
-
-**ML/AI**  
-- Predictive modeling, survival analysis, NLP for clinical notes.  
-- Python (PyTorch, TensorFlow), R, SQL, Databricks.  
+**Domains I Work In**:  
+- **Healthcare**: EHR analytics, clinical NLP, precision medicine  
+- **Agriculture**: Predictive modeling for crop/soil health, satellite imagery analysis  
+- **Business**: Customer segmentation, churn prediction, revenue optimization  
+- **General Data Science**: From exploratory analysis to ML pipelines  
 
 ---
 
-### 🤝 **Let’s Collaborate!**  
-Open to projects in:  
-- **Precision Oncology**, **Common and Rare Disease Genomics**, or **Population Health**.  
-- Building interoperable tools for clinical/omics data.
-- Any other projects Data science and Analytics that are impactful.
-  
+### 🛠️ **Skills & Tools**  
+**Data Wrangling & Analysis**  
+- Python (Pandas, NumPy), R, SQL, Spark  
+- Cleaning messy data (because real-world data is never tidy!)  
+
+**Machine Learning & AI**  
+- Supervised/unsupervised learning, time-series forecasting, NLP  
+- PyTorch, TensorFlow, Scikit-learn, MLflow
+- LLMs, RAG pipelines
+
+**Visualization & Storytelling**  
+- Tableau, Power BI, Matplotlib/Seaborn, Plotly  
+- Translating complex results into **clear, stakeholder-friendly** insights  
+
+**Domain-Specific Tools**  
+- Healthcare: OMOP/FHIR, HL7, BioPython  
+- Agriculture: Remote sensing (NDVI), climate data APIs  
+- Business: Google Analytics, A/B testing frameworks  
+
+---
+
+### 🌱 **What I Care About**  
+- **Impact Over Complexity**: Simple models that work > fancy black boxes  
+- **Ethics & Privacy**: GDPR/HIPAA-aware, bias mitigation in ML  
+- **Collaboration**: Bridging gaps between data teams and domain experts  
+
+---
+
+### 🤝 **Let's Work Together!**  
+Whether you need:  
+- An exploratory data analysis (EDA) for a startup's sales data  
+- A predictive model for disease outbreaks or crop diseases  
+- An automated dashboard for business KPIs  
+- Or just brainstorming data-driven ideas  
+
