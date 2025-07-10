@@ -1,3 +1,5 @@
+### Hello World! 👋😊  
+
 I turn raw data into actionable insights—whether it's optimizing business workflows, improving healthcare outcomes, predicting crop yields, or uncovering hidden patterns in customer behavior.  
 
 **Domains I Work In**:  
