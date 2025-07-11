@@ -11,7 +11,7 @@ I turn raw data into actionable insights—whether it's optimizing business work
 
 ---
 
-### 🛠️ **Skills & Tools**  
+#### **Skills & Tools**  
 **Data Wrangling & Analysis**  
 - Python (Pandas, NumPy), R, SQL, Spark  
 - Cleaning messy data (because real-world data is never tidy!)  
@@ -31,17 +31,5 @@ I turn raw data into actionable insights—whether it's optimizing business work
 - Tableau, Power BI, Looker Studio, Matplotlib/Seaborn  
 
 ---
+##### 🤝 **Let's Work Together!**  
 
-### 🌱 **What I Care About**  
-- **Impact Over Complexity**: Simple models that work > fancy black boxes  
-- **Ethics & Privacy**: GDPR/CCPA compliance, first-party data strategies  
-- **Bridging Gaps**: Aligning martech pipelines with ML models (e.g., feeding GA4 data into propensity models)  
-
----
-
-### 🤝 **Let's Work Together!**  
-Whether you need:  
-- A **customer journey analysis** using GA4 + BigQuery  
-- An **LLM-powered chatbot** trained on your help docs (RAG pipeline)  
-- **Automated attribution reporting** with Python + GTM  
-- Or just **untangling your martech data layer**
