@@ -1,6 +1,6 @@
-### Hello World! 👋😊  
+### Hello! 👋 
 
-I turn raw data into actionable insights—whether it's optimizing business workflows, improving healthcare outcomes, predicting crop yields, or uncovering hidden patterns in customer behavior.  
+I turn raw data into actionable insights, optimizing business workflows, improving healthcare outcomes, predicting crop yields, or uncovering hidden patterns in customer behavior.  
 
 **Domains I Work In**:  
 - **Healthcare**: EHR analytics, clinical NLP, precision medicine  
@@ -8,8 +8,6 @@ I turn raw data into actionable insights—whether it's optimizing business work
 - **Business Analytics**: Customer segmentation, churn prediction, revenue optimization  
 - **Martech (Marketing Technology)**: Attribution modeling, campaign analytics, CDP integration  
 - **General Data Science**: From exploratory analysis to ML pipelines  
-
----
 
 ### **Skills & Tools**  
 **Data Wrangling & Analysis**  
@@ -31,5 +29,5 @@ I turn raw data into actionable insights—whether it's optimizing business work
 - Tableau, Power BI, Looker Studio, Matplotlib/Seaborn  
 
 
-##### 🤝 **Let's Work Together!**  
+#### 🤝 **Let's Work Together!**  
 
