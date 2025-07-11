@@ -11,7 +11,7 @@ I turn raw data into actionable insights—whether it's optimizing business work
 
 ---
 
-#### **Skills & Tools**  
+### **Skills & Tools**  
 **Data Wrangling & Analysis**  
 - Python (Pandas, NumPy), R, SQL, Spark  
 - Cleaning messy data (because real-world data is never tidy!)  
@@ -30,6 +30,6 @@ I turn raw data into actionable insights—whether it's optimizing business work
 **Visualization & Storytelling**  
 - Tableau, Power BI, Looker Studio, Matplotlib/Seaborn  
 
----
+
 ##### 🤝 **Let's Work Together!**  
 
